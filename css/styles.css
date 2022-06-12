@@ -1,0 +1,41 @@
+
+#landing{
+    width: 75%;
+    margin: auto;
+    display: flex;
+   background-color: white;
+}
+#landing-inner{
+    width: 50%;
+   text-align: center; 
+}
+
+#landing-image{
+    background-image: url("background.jpg");
+    width: 50%;
+    height: 600px;
+    
+}
+#landing-text-inner{
+  margin-top: 50%;
+  /* font-family: 'Montserrat', sans-serif; */
+
+}
+#images{
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+#header{
+    width: 100%;
+    margin: auto;
+    padding: 20px;
+    background-color: #1B2430;
+}
+.caption{
+    padding: 20px;
+    background-color: #E9D5CA;
+}
+#images img{
+    width: 100%;
+}
